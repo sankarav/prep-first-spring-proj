@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: prep-first-spring-proj
